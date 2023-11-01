@@ -1,3 +1,4 @@
 [submodule "lib"]
 	path = lib
 	url = git@github.com:debugg-er/lib.git
+	branch = v1
